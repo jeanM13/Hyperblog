@@ -1,1 +1,7 @@
 Hacedor de historia
+
+gamer,
+viajero,
+rider,
+
+
