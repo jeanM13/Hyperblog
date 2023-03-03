@@ -1,4 +1,11 @@
-body
+body{color:#333;
+    text-align:center;
+    font-family:arial;
+    font-size:16px;
+    margin:0;
+    padding:0
+}
+#cabecera
 {
     color: #333;
     text-align: center;
@@ -8,6 +15,12 @@ body
     padding: 0;
 }
 
+#cabecera #tagline
+{
+    padding:0 0 0 1em;
+    font-weight:400;
+    font-size:.8em
+}
 #container
 {
     width: 90%;
@@ -15,8 +28,12 @@ body
     text-align: left;
     border: 5px solid #ddd;
 }
+
 #container h1
 {
     font-size: 70px;
-
+}
+#post
+{
+    padding:1em
 }
