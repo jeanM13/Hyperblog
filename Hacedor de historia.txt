@@ -3,6 +3,14 @@ Hacedor de historia
 gamer,
 viajero,
 rider,
+music lover,
+technology enthusiast
+
+master 1 git pull 
 
 
+<<<<<<< HEAD
 ejemplos practico 
+=======
+experimento 
+>>>>>>> 2321991 (1er cambio experimento)
